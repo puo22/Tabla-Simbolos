@@ -1,4 +1,4 @@
-# Analizador Sintáctico, AST, Tabla de Símbolos y Código Intermedio
+# TABLA DE SIMBOLOS.
 
 ### **EDTS sobre una Gramática Simplificada de Python**
 
